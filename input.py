@@ -1,7 +1,7 @@
 # def get_website_url():
 # Replace the URL below with the website you want to crawl
 # return "http://books.toscrape.com/"
-# return "https://college.vac.edu.np/"
+
 
 import os
 
